@@ -1,6 +1,6 @@
 # Sobre mim
-- 👋 Olá, meu nome é @Giovani041
-- :+1:Meu email de contato é barboza.giovani@escola.pr.gov.br
+- 👋 Olá, meu nome é **@Giovani041**
+- :+1:Meu email de contato é [email](barboza.giovani@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Sratch
 
